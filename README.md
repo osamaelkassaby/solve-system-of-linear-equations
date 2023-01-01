@@ -14,10 +14,27 @@
 <div style='text-align:center;'>
 <h1> SceenShots </h1>
 <img src='https://github.com/osamaelkassaby/solve-system-of-linear-equations/blob/master/screenshot/1.png' />
+  <hr>
 <img src='https://github.com/osamaelkassaby/solve-system-of-linear-equations/blob/master/screenshot/2.png' />
+  <hr>
 <img src='https://github.com/osamaelkassaby/solve-system-of-linear-equations/blob/master/screenshot/3.png' />
+  <hr>
+  
 <img src='https://github.com/osamaelkassaby/solve-system-of-linear-equations/blob/master/screenshot/4.png' />
+  <hr>
+  
 <img src='https://github.com/osamaelkassaby/solve-system-of-linear-equations/blob/master/screenshot/5.png' />
+  <hr>
+  
 <img src='https://github.com/osamaelkassaby/solve-system-of-linear-equations/blob/master/screenshot/6.png' />
+  <hr>
+  
 <img src='https://github.com/osamaelkassaby/solve-system-of-linear-equations/blob/master/screenshot/7.png' />
+  <hr>
+  
+  <h1> Video </h1>
+<video width="420" height="340" controls>
+  <source src="https://osamaelkassaby.com/video/solve-linear-equations.mkv" type="video/mkv">
+Your browser does not support the video tag.
+</video>
 </div>
