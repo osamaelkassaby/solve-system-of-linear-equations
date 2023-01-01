@@ -33,8 +33,6 @@
   <hr>
   
   <h1> Video </h1>
-<video width="420" height="340" controls>
-  <source src="https://osamaelkassaby.com/video/solve-linear-equations.mkv" type="video/mkv">
-Your browser does not support the video tag.
-</video>
+  
+  <a href='https://osamaelkassaby.com/video/solve-linear-equations.mkv'> Click Here </a>
 </div>
